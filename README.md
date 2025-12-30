@@ -1,5 +1,5 @@
 # 🎂 Birthday Probability Problem
-![Birthday Probability Illustration](assets/birthday_problem.png)
+![Birthday Probability Illustration](header.png)
 
 This project demonstrates the **Birthday Problem**, which computes the probability that **at least two people share the same birthday** in a group.
 
